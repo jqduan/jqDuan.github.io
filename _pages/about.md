@@ -7,7 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+Professor & Director, Center for Stochastic Dynamics 
+Illinois Institute of Technology
+Department of Applied Mathematics 
+Chicago, IL 60616
+Ph.D., Cornell University
 
 Research intrests
 ======
