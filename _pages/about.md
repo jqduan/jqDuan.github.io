@@ -7,20 +7,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Professor & Director, Center for Stochastic Dynamics 
-Illinois Institute of Technology
-Department of Applied Mathematics 
-Chicago, IL 60616
-Ph.D., Cornell University
+Professor & Director, Center for Stochastic Dynamics  <br />
+Illinois Institute of Technology  <br />
+Department of Applied Mathematics  <br />
+Chicago, IL 60616 <br />
+Ph.D., Cornell University <br />
 
 Research intrests
 ======
-Nonlinear and Stochastic Dynamics
-Data Science Inspired by Stochastic Dynamics
-Non-Equilibrium Statistical Mechanics
-Stochastic Dynamics of Geophysical & Biomedical Systems
-Effective Dynamics of Stochastic Partial Differential Equations
-Stochastic, Computational & Multiscale Modeling of Complex Phenomena
+Nonlinear and Stochastic Dynamics <br />
+Data Science Inspired by Stochastic Dynamics <br />
+Non-Equilibrium Statistical Mechanics <br />
+Stochastic Dynamics of Geophysical & Biomedical Systems <br />
+Effective Dynamics of Stochastic Partial Differential Equations <br />
+Stochastic, Computational & Multiscale Modeling of Complex Phenomena <br />
 
 Scientific Contributions
 ======
