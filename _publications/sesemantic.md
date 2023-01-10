@@ -1,5 +1,5 @@
 ---
-title: "Sesemantic scholar"
+title: "Semantic Scholar"
 collection: publications
 permalink: /publication/semantic
 date: 2000-01-01
