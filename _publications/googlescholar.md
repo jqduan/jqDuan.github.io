@@ -1,5 +1,5 @@
 ---
-title: "Google scholar"
+title: "Google Scholar"
 collection: publications
 permalink: /publication/googlescholar
 date: 2000-01-01
