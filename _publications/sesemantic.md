@@ -1,7 +1,7 @@
 ---
 title: "Semantic Scholar"
 collection: publications
+excerpt: '[Link of Publications](https://www.semanticscholar.org/author/Jinqiao-Duan/145559070)'
 permalink: /publication/semantic
 date: 2000-01-01
-paperurl: 'https://www.semanticscholar.org/author/Jinqiao-Duan/145559070'
 ---
