@@ -13,7 +13,7 @@ Department of Applied Mathematics  <br />
 Chicago, IL 60616 <br />
 Ph.D., Cornell University <br />
 
-Research intrests
+Research interests
 ======
 Nonlinear and Stochastic Dynamics <br />
 Data Science Inspired by Stochastic Dynamics <br />
