@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 Professor & Director, Center for Stochastic Dynamics  <br />
-Illinois Institute of Technology  <br />
-Department of Applied Mathematics  <br />
-Chicago, IL 60616 <br />
+Great Bay University  <br />
+School of Sciences  <br />
+Dongguan, Guangdong, 523000, China <br />
 Ph.D., Cornell University <br />
 
 Research interests
