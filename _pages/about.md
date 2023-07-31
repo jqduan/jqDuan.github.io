@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 Chair Professor, Department of Mathematics & Department of Physics <br />
-Excutive Dean, School of Sciences, Great Bay University  <br />
+Executive Dean, School of Sciences, Great Bay University  <br />
 Dongguan, Guangdong, 523000, China <br />
 Ph.D., Cornell University <br />
 
