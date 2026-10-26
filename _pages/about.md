@@ -11,6 +11,7 @@ Chair Professor, Department of Mathematics & Department of Physics <br />
 Executive Dean, School of Sciences, Great Bay University  <br />
 Dongguan, Guangdong, 523000, China <br />
 Ph.D., Cornell University <br />
+**Curriculum Vitae:**[Download CV (PDF)](/Duan-CV2026.pdf)
 
 Research interests
 ======
